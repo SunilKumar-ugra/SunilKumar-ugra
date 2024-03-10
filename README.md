@@ -16,7 +16,7 @@ Enthusiastic and results-driven Machine Learning Engineer with a strong foundati
 ## 🌐 CONTACT ME: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumar-ugargol) [![Gmail](https://img.shields.io/badge/Gmail-%EB1923.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHjjdcHnqcfXFPBZPSQTSnPjTRgqBjsQvWbxXGdScQqRfRfrNcRPPpJMvNnLsTDPwhqV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ugargolsunilkumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ugargolsunilkumar) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/917899132595)
 
     
-    </td>
+ </td>
     
  </tr>
  <tr>
