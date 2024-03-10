@@ -1,8 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-## My name is Sunil Kumar and I'm a ML Engineer/Data Scientist from Bangalore
+### My name is Sunil Kumar and I'm a ML Engineer/Data Scientist from Bangalore
 
 ###
 ## 🌐 Socials:
