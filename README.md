@@ -24,6 +24,4 @@ Enthusiastic and results-driven Machine Learning Engineer with a strong foundati
 
 ###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunilKumar-ugra&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://raw.githubusercontent.com/SunilKumar-ugra/SunilKumar-ugra/output/snake.svg" alt="Snake animation" />
-
 ###
