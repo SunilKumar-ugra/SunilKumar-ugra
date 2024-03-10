@@ -6,7 +6,7 @@
 ## 🌐 CONTACT ME: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumar-ugargol) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ugargolsunilkumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ugargolsunilkumar) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumar-ugargol)
-[![Gmail](https://img.shields.io/badge/Gmail-%D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHjjdcHnqcfXFPBZPSQTSnPjTRgqBjsQvWbxXGdScQqRfRfrNcRPPpJMvNnLsTDPwhqV)
+[![Gmail](https://img.shields.io/badge/Gmail-%EB1923.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNHjjdcHnqcfXFPBZPSQTSnPjTRgqBjsQvWbxXGdScQqRfRfrNcRPPpJMvNnLsTDPwhqV)
 
 
 ###
