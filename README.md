@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sunil Kumar and I'm a ML Engineer/Data Scientist from Bangalore</p>
+<H3 align="left">My name is Sunil Kumar and I'm a ML Engineer/Data Scientist from Bangalore</H3>
 
 ###
 ## 🌐 Socials:
